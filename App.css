@@ -1,0 +1,14 @@
+  .table {
+    /* background-color: antiquewhite; */
+    /* border-bottom: 1px solid rgb(204, 204, 204); */
+  }
+
+  .header {
+    /* background-color: aqua; */
+    border: 1px solid black;
+  }
+
+  .th {
+    padding: 10px 40px;
+    border-bottom: 1px solid rgb(204, 204, 204);
+  }
